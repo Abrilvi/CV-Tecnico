@@ -90,6 +90,10 @@ header {
     margin-bottom: 16px;
 }
 
+.accent {
+    color: var(--accent);
+}
+
 h1 {
     font-family: 'DM Serif Display', serif;
     font-size: clamp(2.4rem, 7vw, 3.6rem);
@@ -227,6 +231,10 @@ p {
     color: var(--ink);
 }
 
+.project-header h3.accent {
+    color: var(--accent);
+}
+
 .project-tag {
     font-size: 11px;
     font-weight: 500;
@@ -292,7 +300,7 @@ p {
 .edu-info strong {
     font-size: 15px;
     font-weight: 500;
-    color: var(--ink);
+    color: var(--accent); 
 }
 
 .edu-info span {
