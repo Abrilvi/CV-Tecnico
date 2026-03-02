@@ -8,7 +8,11 @@ CV técnico en formato web desarrollado con HTML y CSS, publicado mediante GitHu
 
 ## Descripción
 
+<<<<<<< HEAD
 Página web que presenta mi perfil profesional como estudiante de Tecnicatura en Inteligencia Artificial con foco en análisis de datos y visualización. Incluye tecnologías, proyectos, acceso al repositorio en GitHub y datos de contacto.
+=======
+Página web que presenta mi perfil profesional como estudiante de Tecnicatura en Inteligencia Artificial con foco en análisis de datos y visualización. Incluye tecnologías, acceso al repositorio en GitHub y datos de contacto.
+>>>>>>> e823406088c61cdb07acda2f30c27e6f7f1d92c5
 
 ## Tecnologías utilizadas
 
